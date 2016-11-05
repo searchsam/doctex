@@ -1,0 +1,20 @@
+% this is presentacion-beamer-lilypond.tex
+\documentclass{beamer}
+\usepackage{graphics}
+\begin{document}
+  Un fragmento musical
+  {%
+\parindent 0pt
+\noindent
+\ifx\preLilyPondExample \undefined
+\else
+  \expandafter\preLilyPondExample
+\fi
+\def\lilypondbook{}%
+\input{dd/lily-7ae3097a-systems.tex}
+\ifx\postLilyPondExample \undefined
+\else
+  \expandafter\postLilyPondExample
+\fi
+}
+\end{document}
