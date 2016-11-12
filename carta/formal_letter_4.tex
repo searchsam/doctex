@@ -1,0 +1,125 @@
+\documentclass[11pt,a4paper]{letter} % Especifique el tamaño de la fuente (10pt, 11pt and 12pt) y tamaño del papel (letterpaper, a4paper, etc)
+
+\usepackage{graphicx} % Required for including pictures
+\usepackage{microtype} % Mejora la tipografía
+
+\renewcommand{\today}{Viernes 7 de Junio, 2014}
+
+% Crear un nuevo comando para la regla horizontal en el documento que permite la especificación de espesor
+\makeatletter
+	\def\vhrulefill#1{\leavevmode\leaders\hrule\@height#1\hfill \kern\z@}
+\makeatother
+
+%----------------------------------------------------------------------------------------
+%	MÁRGENES DEL DOCUMENTO
+%----------------------------------------------------------------------------------------
+
+\textwidth 6.75in
+\textheight 9.25in
+\oddsidemargin -.25in
+\evensidemargin -.25in
+\topmargin -1in
+\longindentation 0.50\textwidth
+\parindent 0.4in
+
+%----------------------------------------------------------------------------------------
+%	DATOS DEL REMITENTE
+%----------------------------------------------------------------------------------------
+
+\def\Who{Samuel J. Guti\'errez Avil\'es} % Su nombre
+\def\What{} % Su titulo
+\def\Where{Freelance, Desarrollador Web} % Su Departamento/Institucion
+\def\Address{Barrio Altagracia} % Su direccion
+\def\CityZip{Managua, Nicaragua} % Su ciudad, codigo postal, pais, etc
+\def\Email{samgutiaviles@yahoo.es} % Su correo electronico
+\def\TEL{+505 8292 5145} % Su numero de telefono
+\def\URL{} % Su pagina web
+
+%----------------------------------------------------------------------------------------
+%	CABECERA Y DE ESTRUCTURA DIRECCIÓN
+%----------------------------------------------------------------------------------------
+
+\address{
+	%\includegraphics[width=1in]{logo.jpg} % Incluir el logotipo de su institución
+	%\hspace{5.1in} % Posición del logotipo de la institución, aumentar para mover hacia la izquierda, disminuye para mover hacia la derecha
+	\vskip -1.07in~\\ % Posición del texto en relación con el logotipo de la institución, aumentar a bajar, disminuir para desplazarse hacia arriba
+		%\Large\hspace{1.5in}UNIVERSITY \hfill ~\\[0.05in] % Primera línea del nombre de la institución, ajuste hspace si su logotipo es amplia
+		%\hspace{1.5in}OF CALIFORNIA \hfill \normalsize % Segunda línea del nombre de la institución, ajuste hspace si su logotipo es amplia
+		%\makebox[0ex][r]{\bf \Who \What }\hspace{0.08in} % Escriba su nombre y el título con un poco de espacio en blanco a la derecha
+	%~\\[-0.11in] % Reducir el espacio en blanco por encima de la línea horizontal
+	%\hspace{1.5in}\vhrulefill{1pt} \\ % Regla horizontal, ajuste hspace si su logotipo es amplia y \ vhrulefill para el espesor de la regla	
+	\hspace{-1.4in} % La posición horizontal de este bloque, aumentan para mover hacia la izquierda, disminuye para mover hacia la derecha
+	\vspace{-1in} % Mueve el contenido hasta la carta de un aspecto más compacto
+}
+
+%----------------------------------------------------------------------------------------
+%	TO ADDRESS STRUCTURE
+%----------------------------------------------------------------------------------------
+
+\def\opening#1{
+	\thispagestyle{empty}{\centering\fromaddress \vspace{0.6in} \\ % Imprimir la cabecera y de la dirección aquí, añadir un espacio en blanco para mover la fecha hacia abajo
+	\hspace*{\longindentation}\today\par} % Imprimir la fecha de hoy, quite \today para no mostrarlo
+		{\raggedright \toname \\ \toaddress \par} % Imprima el nombre y la dirección destinatario
+	\vspace{0.4in} % El espacio en blanco después del remiente
+	\noindent #1 % Imprima la primera línea
+%Elimine el comentario de las 4 líneas de abajo para imprimir un pie de página con el texto de encargo
+	%\def\thefootnote{}
+	%\def\footnoterule{\hrule}
+	%\footnotetext{\hspace*{\fill}{\footnotesize\em Footnote text}}
+	%\def\thefootnote{\arabic{footnote}}
+}
+
+%----------------------------------------------------------------------------------------
+%	ESTRUCTURA DE LA FIRMA
+%----------------------------------------------------------------------------------------
+
+\signature{\Who \What} % La firma es una combinación de su nombre y el título
+\long\def\closing#1{
+	\vspace{0.1in} % Algunos espacios en blanco después de que el contenido de la carta y antes de la firma
+	\noindent % Detenga el sangrado de párrafos
+	\hspace*{\longindentation} % Mueva la firma derecha
+	\parbox{\indentedwidth}{
+		\raggedright
+		#1 % Imprima el texto de la firma
+		\vskip 0.65in % El espacio en blanco entre el texto de la firma y su nombre
+		\fromsig % Escriba su nombre y título
+	}
+} % Escriba su nombre y título
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	PARA TENER EN CUENTA
+%----------------------------------------------------------------------------------------
+
+	\begin{letter}{
+		A quien corresponda.
+	}
+
+%----------------------------------------------------------------------------------------
+%	CONTENIDO CARTA
+%----------------------------------------------------------------------------------------
+
+	\opening{Querido Se\~nor o Se\~nora,}
+
+	Por medio de la presente me permito recomendar ampliamente al Sra. Leticcia Wood Chabarria quien se desempe\~n\'o en el puesto de Limpiador de gallineros en esta empresa durante los \'ultimos 4 años, demostrando ser una persona responsable, con iniciativa y eficiente en las tareas que se le asignan.
+
+	\closing{Sinceramente,}
+
+%----------------------------------------------------------------------------------------
+
+\hspace{\fill}\parbox[t]{2.85in}{ % Crear un cuadro de sus datos por debajo de la línea horizontal a la derecha
+	\footnotesize % Utilice un tamaño de letra más pequeño para los detalles
+	\Who \\ \em % Su nombre, todo el texto después de esto será en cursiva
+	\Where\\ % Su departamento
+	%\Address\\ % Su dirección
+	%\CityZip\\ % Su ciudad y código postal
+	\TEL\\ % Su número de teléfono
+	\Email\\ % Su dirección de correo electrónico
+	%\URL % Tu pagina web
+}
+	
+\end{letter}
+\end{document}

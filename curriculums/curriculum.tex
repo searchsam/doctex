@@ -1,0 +1,130 @@
+%% == ==========================================================================
+%% == Latex - Curriculum Vitae - Comienso del archivo 'curriculum.tex'
+% -- Samuel Jose Gutierrez Aviles
+
+% -- opciones posibles incluyen: 
+% -- tamaño de fuente ('10pt', '11pt' and '12pt'), 
+% -- tamaño de papel ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' y 'landscape')
+% -- familia de fuentes ('sans' y 'roman')
+\documentclass[11pt,letterpaper,sans]{moderncv}
+
+% -- temas de moderncv
+% -- las opciones de estilo son: 
+% -- 'casual' (por omision),
+% -- 'classic', 
+% -- 'oldstyle' 
+% -- 'banking'
+\moderncvstyle{classic}
+% -- opciones de color: 
+% -- 'blue' (por omision), 
+% -- 'orange', 
+% -- 'green', 
+% -- 'red', 
+% -- 'purple', 
+% -- 'grey' 
+% -- 'black'
+\moderncvcolor{blue}
+% -- para seleccionar la fuente por omision, 
+% -- '\sfdefault' para la fuente sans serif, 
+% -- '\rmdefault' para la fuente roman, 
+% -- o cualquier nombre de fuente
+\renewcommand{\familydefault}{\sfdefault}
+% -- numeracion automatica de las paginas
+\nopagenumbers{}
+
+% -- codificacion de caracteres
+% -- utilice la codificacion de su sistema
+\usepackage[utf8]{inputenc}
+% -- utilice CJK para chino, japones o coreano
+\usepackage[T1]{fontenc}
+\usepackage{lmodern} 
+\usepackage{graphicx}
+\usepackage{marvosym}
+
+% -- ajustes para los margenes de pagina
+\usepackage[scale=0.80]{geometry}
+% -- necesario cuando se realizan cambios en las longitudes de diseño de página
+\recomputelengths
+% -- cambiar el ancho de la columna para las fechas
+\setlength{\hintscolumnwidth}{2cm}
+
+% -- datos personales
+\firstname{\huge Samuel J.}
+\familyname{\huge Guti\'errez Avil\'es}
+% -- dato opcional, elimine la linea si no desea el dato
+\title{Ingeniero en Computaci\'on}
+% -- dato opcional, elimine la linea si no desea el dato
+\address{Racachaca 1c. oeste, 1c. sur, 75vrs. oeste}{Barrio Altagracia, Managua}
+% -- dato opcional, elimine la linea si no desea el dato
+\mobile{(505)~8292~5145}      
+% -- dato opcional, elimine la linea si no desea el dato
+\phone{(505)~2266~4028}
+% -- dato opcional, elimine la linea si no desea el dato
+\email{samgutiaviles@yahoo.es}
+ % -- '64pt' es la altura a la que la imagen debe ser ajustada, 
+ % -- 0.4pt es grosor del marco que lo contiene 
+ % -- 0pt para eliminar el marco
+ % -- 'picture' es el nombre del archivo; 
+ % -- dato opcional, elimine la linea si no desea el dato
+\photo[64pt][0.4pt]{interrogacion.jpg}
+
+% -- el símbolo ConTeXt
+\def\ConTeXt{%
+  C%
+  \kern-.0333emo%
+  \kern-.0333emn%
+  \kern-.0667em\TeX%
+  \kern-.0333emt
+}
+
+% -- comando y color utilizado en este documento, independientemente de moderncv
+% -- para enlaces web
+\definecolor{see}{rgb}{0.5,0.5,0.5}
+% -- para los subíndices de texto
+\newcommand{\up}[1]{\ensuremath{^\textrm{\scriptsize#1}}}
+
+%| -- --------------------------------------------------------------------------
+%| --          contenido
+%| -- --------------------------------------------------------------------------
+\begin{document}
+\maketitle
+
+\section{Formaci\'on acad\'emica}
+%% Universidad
+\cventry{2008--2012}{Universidad}{Universidad Nacional de Ingen\'ieria UNI}{Managua}{\textit{Ingenier\'ia en Computaci\'on}}{}
+%% Tecnico
+\cventry{2006--2007}{T\'ecnico}{Centro de Formaci\'on Nicarag\¨uense Holandeza Simon Bolivar SEFNIH-SB}{Managua}{\textit{T\'ecnico Medio en Mantenimiento y Reparaci\'on de PC}}{}
+%% Secundaria
+\cventry{2000--2005}{Secundaria}{Colegio Madre del Divino Pastor}{Managua}{\textit{Bachillerato en Ciencias y Letras}}{}
+
+\section{Experiencia}
+%%\subsection{Laboral}
+%% Desarrollador
+\cventry{2012}{Desarrollador Web}{Arumart Producciones}{Managua}{}{Desarrollo Web con PHP y Ruby, manejo de bases de datos con MySql, MariaDB y Redis}
+%% Soporte Tecnico
+\cventry{2007}{Soporte T\'ecnico}{Gonzal\'ez Technologies GTec}{Managua}{}{\'Area de soporte t\'ecnico y redes}
+
+\section{Idiomas}
+%% Ingles
+\cvitemwithcomment{Ingles}{Decimo Nivel}{Curso efectuado en International Lincolm (2010-2011). \\Puesto en practica en la DebConf12}
+
+\section{Logros}
+%% DebConf12
+\cvlistitem{Participante de la Decimo tercera Canferencia de Debian (DebConf12, Julio 2012)}
+%% Feria FEC
+\cvlistitem{Ganador del primer lugar de la Feria Tecnol\'ogica FEC 2010}
+
+\section{Capacidades}
+%% Sistemas Operativos
+\cvlistitem{Usuario de GNU/Linux con conocimientos intermedios en le uso consola y conocimiento de UNIX}
+%% Bases de Datos
+\cvlistitem{Conocientos intermedios en bases de datos y el uso de los gestores MySql, MariaDB, SQLite y Redis}
+%% Desarrollo
+\cvlistitem{Coniciminetos en los lenguajes de programaci\'on Java, C, PHP, Javascript, Ruby, Bash, SQL y experiencia en el desarrollo tanto desktop como para la web}
+%% Servidores
+\cvlistitem{Conociemtos de basicos en la instalaci\'on y configuraci\'on de servidores DHCP, Proxy, VoIP, Correo, Web sobre plataformas GNU/Linux (Centos, Debian)}
+
+\end{document}
+
+%% fin del archivo 'curriculum.tex'
+%% == ==========================================================================

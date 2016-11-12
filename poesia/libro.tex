@@ -1,0 +1,82 @@
+%definisco la classe del documento
+\documentclass[11pt]{book}
+ 
+%predispongo il foglio per la stampa in formato a5
+\usepackage[a5paper]{geometry}
+ 
+%includo i pacchetti per la lingua
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[italian]{babel}
+ 
+%includo il pacchetto specifico per scrivere le poesie
+\usepackage{verse}
+
+%includo i pacchetti per la grafica come l'inserimento di immagini e testo colorato
+\usepackage{graphicx,xcolor,subfig}
+%in questa cartella metterò tutte le immagini che devo includere nel file
+\graphicspath{{immagini/}}
+ 
+%permette di togliere la numerazione alle pagine (volendo potete anche toglierlo)
+\makeatletter
+\let\ps@plain\ps@empty
+\ps@empty
+\makeatother 
+ 
+%definisco il comando che mi permette di mettere le informazioni sulla poesia come 
+%la data in cui è stata scritta e il luogo
+\newcommand{\attrib}[1]{\nopagebreak{\raggedleft\footnotesize #1\par}}
+ 
+% definisco l'ambiente che si preoccuperà di gestire la poesia
+\newcommand{\poesia}[3]{\vspace*{\fill}%
+\poemtitle{#1}%
+\begin{verse}%
+#2%
+\end{verse}%
+\attrib{#3}
+\vspace*{\fill}\clearpage
+}
+
+\begin{document}
+ 
+\clearpage
+%predispongo la pagina per la copertina
+\begin{titlepage}
+ 
+\begin{figure}[htbp]
+      \centering
+      \includegraphics[scale=.3]{copertina} % qui ci va il nome del fle della copertina
+      %il valore scale=0.3 è da modificare a seconda della dimensione dell'immagine
+\end{figure}
+ 
+\begin{center}
+\begin{LARGE}
+\textsc{\textbf{Titolo}}
+\end{LARGE}
+ 
+\begin{flushleft}
+\vspace*{1 cm}\hspace{3.0 cm}\LARGE Autore\\
+\end{flushleft}
+ 
+\end{center}
+\end{titlepage}
+ 
+%pagina in cui mettere ringraziamenti, motivazioni, etc
+\section*{Intro}
+\newpage
+ 
+%il titolo della poesia deve avere tutte le caratteristiche del titolo delle sezioni
+\renewcommand{\poemtoc}{section}
+ 
+%utilizzo l'ambiente poesia che ho creato prima
+\poesia{Titolo}
+{Primo verso prima strofa\\
+secondo verso prima strofa\\
+terzo verso prima strofa
+ 
+primo verso seconda strofa\\
+secondo verso seconda strofa\\
+terzo verso seconda strofa\\
+}{Luogo, data}
+ 
+\end{document}
