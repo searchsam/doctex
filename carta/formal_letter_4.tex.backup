@@ -1,4 +1,4 @@
- \documentclass[11pt,a4paper]{letter} % Especifique el tamaño de la fuente (10pt, 11pt and 12pt) y tamaño del papel (letterpaper, a4paper, etc)
+\documentclass[11pt,a4paper]{letter} % Especifique el tamaño de la fuente (10pt, 11pt and 12pt) y tamaño del papel (letterpaper, a4paper, etc)
 
 \usepackage{graphicx} % Required for including pictures
 \usepackage{microtype} % Mejora la tipografía
