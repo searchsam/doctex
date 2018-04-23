@@ -1,0 +1,278 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% C A B E C E R A %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Definimos el estilo del documento
+\documentclass[12pt, letterpaper, spanish]{report}
+
+% Utilizamos un paquete para gestionar acentos y eñes
+\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{xcolor}
+\usepackage{pifont}
+% Utilizamos el paquete para gestionar imagenes jpg
+\usepackage{graphicx}
+
+% Definimos la zona de la pagina ocupada por el texto
+\oddsidemargin -1.0cm
+\headsep -1.0cm
+\textwidth=18.5cm
+\textheight=23cm
+
+
+%Empieza el documento %%%%%%%%%%%%%%%%%%%% P R I N C I P I O %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+
+% Definimos TÍTULO, autor, fecha.
+\title{% 
+	\Huge \bfseries Liturgia de Matrimonio \\
+	\large Solemnidad de la Sant\'isima Trinidad
+}
+\author{% 
+	\Large \em \bfseries Samuel Jos\'e Guti\'errez Avil\'es \\ 
+	\Large \em \bfseries \& \\ 
+	\Large \em \bfseries Linda Isabel Mart\'ines Castro
+}
+\date{\bfseries 27 de Mayo, 2018}
+% Generamos título
+\maketitle
+
+\newpage
+
+\begin{center} 
+\Large {\bfseries \textcolor{red}{Domingo despu\'es de Pentecost\'es}}
+\end{center}
+
+\begin{center}
+\huge {\bfseries SOLEMNIDAD \\ DE LA SANT\'ISIMA TRINIDAD}
+\end{center}
+
+\huge {\bfseries \textcolor{red}{Ant\'ifona de entrada}} \newline
+
+\Large Bendito sea Dios Padre, y su Hijo unig\'enito, y el Esp\'iritu Santo, porque ha tenido misericordia de nosotros. \newline
+
+\huge {\bfseries \textcolor{red}{Oraci\'on colecta}} \newline
+
+\Large Dios, Padre todopoderoso, que has enviado al mundo la Palabra de la verdad
+y el Esp\'iritu de la santificaci\'on para revelar a los hombres tu admirable misterio;
+conc\'edenos profesar la fe verdadera, conocer la gloria de la eterna Trinidad
+y adorar su unidad todopoderosa. Por nuestro Se\~nor Jesucristo. \newline
+
+\Large {\bfseries Lectura del libro del Deuteronomio \hspace{1cm} \textcolor{red}{4, 32-34.39-40}} \newline
+
+\Large Mois\'es habl\'o al pueblo, diciendo: \newline
+
+--<<Pregunta, pregunta a los tiempos antiguos, que te han precedido, desde el d\'ia en que Dios 
+cre\'o al hombre sobre la tierra: ?`hubo jam\'as, desde un extremo al otro del cielo, palabra tan 
+grande como \'esta?; ?`se oy\'o cosa semejante?; ?`hay alg\'un pueblo que haya o\'ido, como t\'u has 
+o\'ido, la voz del Dios vivo, hablando desde el fuego, y haya sobrevivido?; ?`alg\'un Dios intent\'o 
+jam\'as venir a buscarse una naci\'on entre las otras por medio de pruebas, signos, prodigios y 
+guerra, con mano fuerte y brazo poderoso, por grandes terrores, como todo lo que el Se\~nor, vuestro 
+Dios, hizo con vosotros en Egipto, ante vuestros ojos? \newline
+
+Reconoce, pues, hoy y medita en tu coraz\'on, que el Se\~nor es el \'unico Dios, all\'a arriba en el 
+cielo, y aqu\'i abajo en la tierra; no hay otro. Guarda los preceptos y mandamientos que yo te 
+prescribo hoy, para que seas feliz, t\'u y tus hijos despu\'es de ti, y prolongues tus d\'ias en el 
+suelo que el Se\~nor, tu Dios, te da para siempre.>> \newline
+
+{\bfseries Palabra de Dios.} \newline
+
+\Large {\bfseries \textcolor{red}{Salmo responsorial \hspace{1cm} 32, 4-5.6 y 9. 18-19.20 y 22}} \newline
+
+\Large {\bfseries \textcolor{red}{R/.}} \hspace{1cm} Dichoso el pueblo que el Se\~nor \newline
+. \hspace{3cm} se escogi\'o como heredad. \newline
+
+\hspace{2cm} La palabra del Se\~nor es sincera, \newline
+. \hspace{2.5cm} y todas sus acciones son leales; \newline
+. \hspace{2.5cm} \'el ama la justicia y el derecho, \newline
+. \hspace{2.5cm} y su misericordia llena la tierra. \hspace{1cm} {\bfseries \textcolor{red}{R/.}} \newline
+
+\hspace{2cm} La palabra del Se\~nor hizo el cielo; \newline
+. \hspace{2.5cm} el aliento de su boca, sus ej\'ercitos, \newline
+. \hspace{2.5cm} porque \'el lo dijo, y existi\'o, \newline
+. \hspace{2.5cm} \'el lo mand\'o, y surgi\'o. \hspace{1cm} {\bfseries \textcolor{red}{R/.}} \newline
+
+\hspace{2cm} Los ojos del Se\~nor est\'an puestos en sus fieles, \newline
+. \hspace{2.5cm}  en los que esperan en su misericordia, \newline
+. \hspace{2.5cm}  para librar sus vidas de la muerte \newline
+. \hspace{2.5cm}  y reanimarlos en tiempo de hambre. \hspace{1cm} {\bfseries \textcolor{red}{R/.}} \newline
+
+\hspace{2cm} Nosotros aguardamos al Se\~nor: \newline
+. \hspace{2.5cm}  \'el es nuestro auxilio y escudo; \newline
+. \hspace{2.5cm}  que tu misericordia, Se\~nor, venga sobre nosotros, \newline
+. \hspace{2.5cm}  como lo esperamos de ti. \hspace{1cm} {\bfseries \textcolor{red}{R/.}} \newline
+
+\Large {\bfseries Lectura del libro del Apocalipsis \hspace{1cm} \textcolor{red}{19, 1.5-9a}} \newline 
+
+\Large Yo, Juan, o\'i en el cielo como un gran ruido de muchedumbre inmensa que dec\'ia: --Aleluya. 
+La salvaci\'on y la gloria y el poder son de nuestro Dios. Y sali\'o una voz del trono que dec\'ia: 
+--Alabad a nuestro Dios todos sus siervos y los que le tem\'eis, peque\~nos y grandes. Y o\'i como 
+el ruido de muchedumbre inmensa y como el ruido de grandes aguas y como el fragor de fuertes 
+truenos. Y dec\'ian: --Aleluya. Porque ha establecido su reinado el Se\~nor, nuestro Dios 
+Todopoderoso. Con alegr\'ia y regocijo d\'emosle gloria, porque han llegado las bodas del Cordero, 
+y su Esposa se ha engalanado y se le ha concedido vestirse de lino deslumbrante de blancura --el 
+lino son las buenas acciones de los santos--. Luego me dice: --Escribe: Dichosos los invitados al 
+banquete de bodas del Cordero. \newline
+
+{\bfseries Palabra de Dios.} \newline
+
+\begin{center} 
+\Large {\bfseries \textcolor{red}{Aleluya \hspace{1cm} Ap 1, 8}} \\
+Gloria al Padre, y al Hijo, y al Esp\'iritu Santo \\
+al Dios que es, que era y que viene.
+\end{center}
+
+\Huge \textcolor{red}{\ding{64}} \Large {\bfseries Lectura del santo evangelio seg\'un san Mateo \hspace{1cm} \textcolor{red}{28, 16-20}} \newline
+
+\Large En aquel tiempo, los once disc\'ipulos se fueron a Galilea, al monte que Jes\'us les 
+hab\'ia indicado. \hfill \break
+Al verlo, ellos se postraron, pero algunos vacilaban. \newline
+Acerc\'andose a ellos, Jes\'us les dijo: \newline
+--<<Se me ha dado pleno poder en el cielo y en la tierra. \newline
+Id y haced disc\'ipulos de todos los pueblos, bautiz\'andolos en el nombre del Padre y del Hijo y 
+del Esp\'iritu Santo; y ense\~n\'andoles a guardar todo lo que os he mandado. \newline
+Y sabed que yo estoy con vosotros todos los d\'ias, hasta el fin del mundo.>> \newline
+
+{\bfseries Palabra del Se\~nor.} \newline
+
+\Large {\bfseries \textcolor{red}{Se dice} Credo.} \newline
+
+\Large {\bfseries \textcolor{red}{Oraciones Universales}} \newline
+
+\Large Por nuestra Santa Iglesia Cat\'olica, para que Dios le permita seguir siendo la esposa
+fiel de Jesucristo. Por el papa Francisco, por nuestros cardenales, obispos, sacerdotes,
+religiosas, seminaristas y dem\'as consagrados. Por los internautas que difunden la santa palabra
+en el ciberespacio. Para que la gracia del  ``rey de reyes y se\~nor de se\~nores'' sea la que
+ilumine su sendero apost\'olico. \newline
+
+{\bfseries Escuchanos Se\~nor.} \newline
+
+\Large Por los gobernantes del mundo entero, por los gobernantes de nuestro pa\'is, por nuestras
+fuerzas armadas; para que sea en la sabidur\'ia y en la abundancia de Salom\'on, donde se
+configure su uni\'on con el digno y valeroso pueblo de Dios. \newline
+
+{\bfseries Escuchanos Se\~nor.} \newline
+
+\Large Por los que sufren, por los afligidos, por los pobres de esp\'iritu, por los enfermos. 
+Por las madres que no tienen ni el pan, ni la medicina para llevarle a su gente; 
+por las familias que han quedado desgarradas porque sus hijos han tenido que migrar del pa\'is.
+Por nuestra heroica gente que se desgasta haciendo cola en los oscuros espacios de la escasez 
+y de la carest\'ia. \newline
+
+{\bfseries Escuchanos Se\~nor.} \newline
+
+\Large Por las comunidades neocatecumenales: del mundo entero, en especial por las de Nicaragua. 
+Por las comprometidas comunidades neocatecumenales que hacen vida en esta parroquia; 
+para que sea en el sagrado pan y en el luminoso vino desde donde se alimente: 
+nuestra fe, nuestra esperanza y nuestra caridad. \newline
+
+{\bfseries Escuchanos Se\~nor.} \newline
+
+\huge {\bfseries \textcolor{red}{Oraci\'on sobre las ofrendas}} \newline
+
+\Large Por la invocaci\'on de tu santo nombre, santifica, Se\~nor, 
+estos dones que te presentamos y transf\'ormanos por ellos
+en ofrenda perenne a tu gloria. Por Jesucristo, nuestro Se\~nor. \newline
+
+\huge {\bfseries \textcolor{red}{Prefacio}} \newline
+
+\begin{center}
+\large {\bfseries \textcolor{red}{\textit{El misterio de la Sant\'isima Trinidad}}}
+\end{center}
+\Large \textcolor{red}{\bfseries V/.} \hspace{0.5cm} El Se\~nor est\'e con vosotros. \newline
+\Large \textcolor{red}{\bfseries R/.} \hspace{0.5cm} Y con tu esp\'iritu. \newline \\
+\Large \textcolor{red}{\bfseries V/.} \hspace{0.5cm} Levantemos el coraz\'on. \newline
+\Large \textcolor{red}{\bfseries R/.} \hspace{0.5cm} Lo tenemos levantado hacia el Se\~nor. \newline \\
+\Large \textcolor{red}{\bfseries V/.} \hspace{0.5cm} Demos gracias al Se\~nor, nuestro Dios. \newline
+\Large \textcolor{red}{\bfseries R/.} \hspace{0.5cm} Es justo y necesario. \newline \\
+\Large \textcolor{red}{\bfseries R/.} \hspace{0.5cm} En verdad es justo y necesario,
+es nuestro deber y salvaci\'on, darte gracias siempre y en todo lugar,
+Se\~nor, Padre santo, Dios todopoderoso y eterno. \newline
+
+\hspace{1.5cm} Que con tu \'unico Hijo y el Esp\'iritu Santo eres un solo Dios, un solo Se\~nor;
+no una sola Persona, sino tres Personas en una sola naturaleza.
+Y lo que creemos de tu gloria, porque t\'u lo revelaste, lo afirmamos tambi\'en de tu Hijo,
+y tambi\'en del Espíritu Santo, sin diferencia ni distinci\'on.
+De modo que, al proclamar nuestra fe en la verdadera y eterna Divinidad,
+adoramos tres Personas distintas, de \'unica naturaleza e iguales en su dignidad. \newline
+
+\hspace{1.5cm} A quien alaban los \'angles y los arc\'angeles
+y todos los coros celestiales, que no cesan de aclamarte con una sola voz: \newline
+
+\Large {\bfseries \textcolor{red}{R/. \hspace{0.5cm} Santo, Santo, Santo...}} \newline
+
+\Large \textcolor{red}{\bfseries V/.} \hspace{0.5cm} Santo eres en verdad, Se\~nor, fuente de 
+toda santidad; por eso te pedimos que santifiques estos dones con la efusi\'on de tu Esp\'iritu,
+de manera que sean para nosotros Cuerpo y \textcolor{red}{\ding{64}} Sangre de Jesucristo,
+nuestro Se\~nor. \newline
+
+\hspace{1.5cm} El cual, en esta misma noche, cuando iba a ser entregado a su Pasi\'on,
+voluntariamente aceptada, tom\'o pan, d\'andote gracias, lo parti\'o
+y lo dio a sus disc\'ipulos, diciendo: \newline
+
+\hspace{1.5cm} <<Tomad y comed todos de \'el, porque esto es mi cuerpo, que ser\'a
+entregada por vosotros.>> \newline
+
+\hspace{1.5cm} Del mismo modo, acabada la cena, tom\'o el c\'aliz,
+y, d\'andote gracias de nuevo, lo pas\'o a sus disc\'ipulos, diciendo: \newline
+
+\hspace{1.5cm} <<Tomad y bebed todo de \'el, porque \'este es el c\'aliz de mi sangre,
+sangre de la alianza nueva y eterna, que ser\'a derramada por vosotros y por todos los
+hombres para el perd\'on de los pecados. Haced esto en conmemoraci\'on m\'ia. \newline
+
+\hspace{1.5cm} \'Este es el Misterio de la fe. \newline
+
+\Large \textcolor{red}{\bfseries R/.} \hspace{0.5cm} Anunciamos tu muerte, 
+proclamamos tu resurrecci\'on. !`Ven, Se\~nor Jes\'us! \newline
+
+\Large \textcolor{red}{\bfseries V/.} \hspace{0.5cm} Así, pues, Padre,
+al celebrar ahora el memorial
+de la muerte y resurrecci\'on de tu Hijo,
+te ofrecemos el pan de vida y el c\'aliz de salvaci\'on,
+y te damos gracias
+porque nos haces dignos de servirte en tu presencia.
+
+Te pedimos humildemente
+que el Espíritu Santo congregue en la unidad
+a cuantos participamos
+del Cuerpo y Sangre de Cristo.
+
+Acuérdate, Se\~nor,
+de tu Iglesia extendida por toda la tierra;
+
+Acuérdate, Se\~nor, de tu Iglesia 
+extendida por toda la tierra 
+y reunida aquí en el domingo, 
+día en que Cristo ha vencido a la muerte 
+y nos ha hecho partícipes de su vida inmortal;
+
+Acuérdate de tus hijos N. y N. 
+que en Cristo hoy han fundado una nueva familia, 
+iglesia doméstica y sacramento de tu amor, 
+y concédeles que la gracia de este día 
+se prolongue a lo largo de toda su vida.
+
+
+Acuérdate también de nuestros hermanos
+que se durmieron en la esperanza
+de la resurrecci\'on,
+y de todos los que han muerto en tu misericordia;
+admitelos a contemplar la luz de tu rostro.
+
+Ten misericordia de todos nosotros,
+y así, con María, la Virgen Madre de Dios,
+su esposo san José,
+los ap\'ostoles
+y cuantos vivieron en tu amistad
+a través de los tiempos,
+merezcamos, por tu Hijo Jesucristo,
+compartir la vida eterna
+y cantar tus alabanzas.
+
+Por Cristo, con él y en él,
+a ti, Dios Padre omnipotente,
+en la unidad del Espíritu Santo,
+todo honor y toda gloria
+por los siglos de los siglos. \newline
+
+\Large \textcolor{red}{\bfseries R/.} \hspace{0.5cm} Am\'en. \newline
+
+% Termina el documento %%%%%%%%%%%%%%%%%%%%%%%%%%%%% F I N %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{document}
