@@ -1,0 +1,28 @@
+\select@language {spanish}
+\contentsline {section}{ Introducci\'on }{1}
+\contentsline {section}{CONEXI\'ON ENTRE EL AMOR CONYUGAL Y LA TRANSMISI\'ON DE LA VIDA}{3}
+\contentsline {subsection}{{\relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \belowdisplayskip \abovedisplayskip \let \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ Un importante acto del Magisterio de la Iglesia: La Enc\'iclica <<\textit {Humanae vitae}>>}}{3}
+\contentsline {subsection}{Todo acto matrimonial debe permanecer abierto a la transmisi\'on de la vida}{3}
+\contentsline {subsection}{Inseparabilidad del acto unitivo y procreador}{4}
+\contentsline {subsection}{El acto conyugal une a los esposos y los hace aptos para engendrar nuevas vidas}{5}
+\contentsline {section}{LA NORMA MORAL SOBRE LA VIDA MATRIMONIAL}{5}
+\contentsline {subsection}{La norma moral es de ley natural.\\ Esta en conformidad con la razon}{6}
+\contentsline {subsection}{Esta en consonancia con el conjunto de la doctrina moral revelada}{6}
+\contentsline {section}{ARMON\'IA ENTRE LA <<\textit {HUMANAE VITAE}>> Y LA <<GAUDIUM ET SPES>>}{7}
+\contentsline {subsection}{No hay contradlccion entre las leyes que regulan la transmlslon de la vida y el verdadero amor humano }{7}
+\contentsline {subsection}{Es cierto que la doctrina de la regulaci6n de la natalidad plantea a veces dificultades serias}{8}
+\contentsline {subsection}{Se cuenta con la gracia de Dios y la buena voluntad de los esposos}{8}
+\contentsline {subsection}{Posibilidad de la observancia de la Iey divina}{9}
+\contentsline {section}{LA PATERNIDAD Y LA MATERNIDAD RESPONSABLES}{10}
+\contentsline {subsection}{El caracter moral del comportamiento de los esposos debe estar guiado por criterios objetivos}{10}
+\contentsline {subsection}{Los conyuges deben regirse por la conciencia, ajustada a la ley divina, siempre dociles al Magisterio de la Iglesia, que la interpreta autenticamente}{10}
+\contentsline {subsection}{Los c6nyuges deben ser fieles al plan divino. La Paternidad responsable puede sugerir la reducci6n o la procreaci6n de una familia numerosa segun norrnas de prudencia}{11}
+\contentsline {section}{LO L\'ICITO Y LO IL\'ICITO EN LA REGULACI\'ON DE LOS NACIMIENTOS}{12}
+\contentsline {subsection}{Son moralmente llicitos el aborto, la estertltzaclcn directa y to dos los medios anticonceptivos}{12}
+\contentsline {subsection}{Es moralmente licito el recurso a los period os infecundos. Hay una diferencia esencial entre estos y los anticonceptivos}{12}
+\contentsline {subsection}{Contenido normative-pastoral de la Enciclica Humanae vitae}{13}
+\contentsline {section}{LA DOCTRINA SOBRE LA TRANSMIS\'ON DE LA VIDA}{13}
+\contentsline {section}{LA REGULACI\'ON DE LA NATALIDAD SEG\'UN LA TRADICI\'ON}{15}
+\contentsline {section}{S\'OLO CON RAZONES JUSTIFICADAS SE PUEDEN REGULAR LOS NACIMIENTOS}{17}
+\contentsline {section}{LA VOCACI\'ON MATRIMONIAL}{19}
+\contentsline {section}{LA ESPIRITUALIDAD CONYUGAL Y LOS FINES DEL MATRIMONIO}{21}
