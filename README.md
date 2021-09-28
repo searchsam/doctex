@@ -1,4 +1,3 @@
-latex
-=====
+# DocTex
 
-Repositorio general de multiples documentos todos realisados en latex.
+Repositorio general de múltiples documentos todos realizados en LaTex.
