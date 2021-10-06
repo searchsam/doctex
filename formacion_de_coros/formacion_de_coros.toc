@@ -1,0 +1,67 @@
+\babel@toc {spanish}{}
+\contentsline {part}{I\hspace {1em}INTRODUCCI\'ON A LA LITURGIA}{7}{part.1}%
+\contentsline {chapter}{\numberline {1}CONCEPTO DE LITURG\'IA}{9}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Algunos conceptos del Concilio Vaticano II}{9}{section.1.1}%
+\contentsline {section}{\numberline {1.2}De esto podemos concluir que la Liturgia es:}{9}{section.1.2}%
+\contentsline {chapter}{\numberline {2}EL A\~NO LIT\'URGICO}{11}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Tiempo de Adviento}{12}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Tiempo de Navidad}{12}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Tiempo Ordinario:}{12}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Primera Parte}{12}{subsection.2.3.1}%
+\contentsline {section}{\numberline {2.4}Tiempo de Cuarema}{12}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Semana Santa}{13}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Tiempo Pascual}{13}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Tiempo Ordinario:}{13}{section.2.7}%
+\contentsline {subsection}{\numberline {2.7.1}Segunda Parte}{13}{subsection.2.7.1}%
+\contentsline {chapter}{\numberline {3}CELEBRACIONES LIT\'URGICAS}{15}{chapter.3}%
+\contentsline {chapter}{\numberline {4}PREEMINENCIA DE LOS D\'IAS LIT\'URGICOS}{17}{chapter.4}%
+\contentsline {chapter}{\numberline {5}LA PARTICIPACI\'ON DE LOS LAICOS EN LA LITURGIA}{19}{chapter.5}%
+\contentsline {chapter}{\numberline {6}LA LITURGIA Y EL CULTO}{21}{chapter.6}%
+\contentsline {part}{II\hspace {1em}LA M\'USICA EN LA LITURGIA}{23}{part.2}%
+\contentsline {chapter}{\numberline {7}DIFERENCIA ENTRE M\'USICA RELIGIOSA Y MUSICA SAGRADA-LIT\'URGICA}{25}{chapter.7}%
+\contentsline {section}{\numberline {7.1}M\'usica religiosa}{26}{section.7.1}%
+\contentsline {section}{\numberline {7.2}M\'usica Sagrada}{26}{section.7.2}%
+\contentsline {section}{\numberline {7.3}M\'usica Lit\'urgica}{27}{section.7.3}%
+\contentsline {chapter}{\numberline {8}LA M\'USICA SAGRADA LIT\'URGICA}{29}{chapter.8}%
+\contentsline {section}{\numberline {8.1}G\'eneros de m\'usica sagrada que se permiten en la Iglesia}{30}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Instrumentos que son admitidos}{30}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Principios que ofrece el Papa para la m\'usica dentro de las celebraciones litúrgicas cat\'olicas}{31}{section.8.3}%
+\contentsline {section}{\numberline {8.4}El papa Benedicto XVI enumera otros criterios sobre la m\'usica sagrada, que son importantes destacar}{32}{section.8.4}%
+\contentsline {chapter}{\numberline {9}LA M\'USICA SAGRADA EN EL CATECISMO DE LA IGLESIA CAT\'OLICA}{33}{chapter.9}%
+\contentsline {chapter}{\numberline {10}LOS CANTOS DE LA MISA}{35}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Los Propios y Ordinarios de la Misa}{36}{section.10.1}%
+\contentsline {subsection}{\numberline {10.1.1}Ordinario}{36}{subsection.10.1.1}%
+\contentsline {subsection}{\numberline {10.1.2}Propio}{36}{subsection.10.1.2}%
+\contentsline {chapter}{\numberline {11}LOS CANTOS DE LA EUCARIST\'IA: SU SENTIDO}{39}{chapter.11}%
+\contentsline {section}{\numberline {11.1}Canto de Entrada}{39}{section.11.1}%
+\contentsline {section}{\numberline {11.2}Acto Penitencial}{39}{section.11.2}%
+\contentsline {section}{\numberline {11.3}Gloria}{40}{section.11.3}%
+\contentsline {section}{\numberline {11.4}Salmo Responsorial}{40}{section.11.4}%
+\contentsline {section}{\numberline {11.5}Aclamaci\'on antes del Evangelio}{41}{section.11.5}%
+\contentsline {section}{\numberline {11.6}Profesi\'on de fe}{41}{section.11.6}%
+\contentsline {section}{\numberline {11.7}Preparaci\'on de los dones}{42}{section.11.7}%
+\contentsline {subsection}{\numberline {11.7.1}Criterios}{42}{subsection.11.7.1}%
+\contentsline {section}{\numberline {11.8}Santo, Aclamaci\'on Eucar\'istica y Amen}{42}{section.11.8}%
+\contentsline {subsection}{\numberline {11.8.1}Criterios}{43}{subsection.11.8.1}%
+\contentsline {section}{\numberline {11.9}Padre Nuestro y Cordero de Dios}{43}{section.11.9}%
+\contentsline {subsection}{\numberline {11.9.1}Criterios}{43}{subsection.11.9.1}%
+\contentsline {section}{\numberline {11.10}Comuni\'on}{44}{section.11.10}%
+\contentsline {subsection}{\numberline {11.10.1}Criterios}{44}{subsection.11.10.1}%
+\contentsline {section}{\numberline {11.11}Canto de Meditaci\'on o Acci\'on de Gracias}{45}{section.11.11}%
+\contentsline {section}{\numberline {11.12}Canto Final}{45}{section.11.12}%
+\contentsline {chapter}{\numberline {12}LOS TIEMPOS LIT\'URGICOS Y SUS CANTOS}{47}{chapter.12}%
+\contentsline {section}{\numberline {12.1}Adviento}{47}{section.12.1}%
+\contentsline {section}{\numberline {12.2}Navidad}{47}{section.12.2}%
+\contentsline {section}{\numberline {12.3}Cuaresma}{48}{section.12.3}%
+\contentsline {section}{\numberline {12.4}Pascua y Pentecost\'es}{48}{section.12.4}%
+\contentsline {section}{\numberline {12.5}Tiempo Ordinario}{49}{section.12.5}%
+\contentsline {section}{\numberline {12.6}Mar\'ia en el A\~no Lit\'urgico}{49}{section.12.6}%
+\contentsline {part}{III\hspace {1em}ANEXO}{51}{part.3}%
+\contentsline {chapter}{\numberline {13}DOCUMENTOS Y RECURSOS QUE NOS HABLAN DE LA M\'USICA SAGRADA}{53}{chapter.13}%
+\contentsline {section}{\numberline {13.1}El Magisterio De La Iglesia}{53}{section.13.1}%
+\contentsline {section}{\numberline {13.2}El Magisterio de Juan Pablo II}{54}{section.13.2}%
+\contentsline {section}{\numberline {13.3}Otros}{54}{section.13.3}%
+\contentsline {section}{\numberline {13.4}Recursos web}{54}{section.13.4}%
+\contentsline {section}{\numberline {13.5}Youtube}{55}{section.13.5}%
+\contentsline {chapter}{\numberline {14}\'INDICE DE CANTOS CARMELITANOS}{57}{chapter.14}%
+\contentsline {section}{\numberline {14.1}\'Indice Alfab\'etico}{57}{section.14.1}%
