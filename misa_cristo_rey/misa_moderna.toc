@@ -1,0 +1,22 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\Large \textbf {Introducci\'on}}{3}{}%
+\contentsline {subsection}{Historia}{4}{}%
+\contentsline {subsection}{Estructura de la Misa}{5}{}%
+\contentsline {subsection}{Ordinario}{7}{}%
+\contentsline {subsection}{Propio}{7}{}%
+\contentsline {section}{\Large \textbf {Ordinario de la Misa}}{10}{}%
+\contentsline {subsection}{Se\~nor ten piedad}{11}{}%
+\contentsline {subsection}{Gloria a Dios en lo alto del cielo}{12}{}%
+\contentsline {subsection}{Creo en Dios}{13}{}%
+\contentsline {subsection}{Santo}{15}{}%
+\contentsline {subsection}{Cordero de Dios}{16}{}%
+\contentsline {section}{\Large \textbf {Propio de la Misa}}{17}{}%
+\contentsline {subsection}{Canto de Entrada}{18}{}%
+\contentsline {subsection}{Salmo Responsorial}{20}{}%
+\contentsline {subsubsection}{\textit {Ciclo A}}{20}{}%
+\contentsline {subsubsection}{\textit {Ciclo B}}{22}{}%
+\contentsline {subsubsection}{\textit {Ciclo C}}{23}{}%
+\contentsline {subsection}{Aleluya}{24}{}%
+\contentsline {subsection}{Presentaci\'on de Ofrendas}{25}{}%
+\contentsline {subsection}{Canto de Comuni\'on}{27}{}%
+\contentsline {subsection}{Canto Final}{29}{}%
